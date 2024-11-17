@@ -3,7 +3,7 @@ Desenvolvimento de API, uso da framework Spring na liguagem Java.
 
 ## Diagrama de Classes 
 
---- mermaid
+``` mermaid
 classDiagram
     class Tarefa {
         +string title
